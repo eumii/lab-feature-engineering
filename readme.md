@@ -14,4 +14,17 @@ Here we will work on cleaning some of the other columns in the dataset using the
 
 
 
+## 1. notebooks :  
+
+- "Cleaning large datasets"
+
+lab of both cleaning large data set, categoricals and numericals feature eng
+
+- "feature eng"
+
+only lab of numericlas columns EDAs
+
+## 2. datasets :
+
+- learningSet is in ignore
 
